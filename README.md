@@ -3,3 +3,8 @@
 - React
 - TS
 - TailwindCSS
+- Yarn
+
+## How it works
+- One 🥫 Pomodoro cycle = Four 🍅🍅🍅🍅 Pomodoro sessions 
+- Encourage your Daily 🍝 with Pomodoro
